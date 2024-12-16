@@ -1,0 +1,3 @@
+// var uniqueDays = [...new Set(resp.split('</option>'))];
+//                   var uniqueDaysHTML = uniqueDays.map(day => day + '</option>').join('');
+//                   $('#select_day').html(uniqueDaysHTML);
