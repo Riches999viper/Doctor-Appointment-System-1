@@ -1,6 +1,6 @@
 # Doctor-Appointment-System-1
 doctor Appointment system
-Overview
+Overview-----------------------------
 The Doctor Appointment System is a web application designed to streamline the appointment scheduling process, enhance patient experience, and optimize practice efficiency. The system features an intuitive and user-friendly interface, providing seamless coordination between healthcare providers and patients, ensuring effective appointment management.
 Tech Stack
 •	Frontend: React.js
