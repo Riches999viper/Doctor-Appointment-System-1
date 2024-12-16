@@ -76,11 +76,4 @@ o	Doctors and administrators can view and manage appointments, including confirm
 4.	Notifications:
 o	Patients and doctors will receive reminders about upcoming appointments.
 Contributing
-Feel free to fork this repository and submit pull requests. If you encounter bugs or have feature requests, please open an issue.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-________________________________________
-Tips for the README.md:
-•	Customize the repository link with your actual GitHub username and project name.
-•	If you have any additional configurations or dependencies, make sure to mention them in the installation instructions.
-•	You may also want to include a section for troubleshooting common setup issues.
+
